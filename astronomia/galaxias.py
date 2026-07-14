@@ -1,1 +1,1 @@
-lista_galaxias = ["Vía Láctea", "Andrómeda", "Galaxia del Sombrero", "F¡Galaxia del Triángulo"]
+galaxias = ["Vía Láctea", "Andrómeda", "Galaxia del Sombrero", "F¡Galaxia del Triángulo"]
