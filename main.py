@@ -6,7 +6,7 @@ from astronomia.galaxias import galaxias
 
 def explora(a):
     sitios_a_no_explorar = ["los baños", "el granero", "la madriguera"]
-    print(f"el alien {a} no va a explorar {random.choice{sitios_a_no_explorar}}")
+    print(f"el alien {a} no va a explorar {random.choice(sitios_a_no_explorar)}")
 
 def cosmos(a, p, g):
     for alien in a:
